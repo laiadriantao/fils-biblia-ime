@@ -1,2 +1,3 @@
-# fils-ghid-ime
-FILS-Ghid-IM(E)
+BIBLIA
+BIBLioteca Inginerilor Ambițioși
+
